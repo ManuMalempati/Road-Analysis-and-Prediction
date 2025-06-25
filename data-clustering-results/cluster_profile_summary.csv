@@ -1,0 +1,8 @@
+cluster,INJ_LEVEL_DESC,TAKEN_HOSPITAL,SEVERITY,NO_PERSONS_INJ_2
+0,Other injury,N,3,0
+1,Not injured,N,2,1
+2,Not injured,Y,3,0
+3,Serious injury,Y,2,2
+4,Serious injury,Y,2,1
+5,Serious injury,Y,2,4
+6,Other injury,N,2,1
